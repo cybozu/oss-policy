@@ -23,3 +23,9 @@ This work is published from:
       content="JP" about="https://github.com/cybozu/oss-policy">
   Japan</span>.
 </p>
+
+## Contact
+
+Please contact at Cybozu OSPO (Open Source Program Office). oss@cybozu.com
+
+(Japanese) お問い合わせはサイボウズの OSS 推進室までお願いします． oss@cybozu.com
