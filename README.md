@@ -15,11 +15,11 @@ The license for the documents is CC0 (Creative Commons 0).
   To the extent possible under law,
   <a rel="dct:publisher"
      href="https://github.com/cybozu/oss-policy">
-    <span property="dct:title">Cybozu OSPO</span></a>
+    <span property="dct:title">Cybozu</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">OSS Policy</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="JP" about="https://github.com/cybozu/oss-policy">
-  日本</span>.
+  Japan</span>.
 </p>
