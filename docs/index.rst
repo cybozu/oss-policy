@@ -10,13 +10,13 @@
    :maxdepth: 2
 
    about
-   introduction
+   preface
    copyright_attribution
-   personal_activities
+   indivisual_activities
    publish_oss
-   using_oss
-   including_oss
-   license_violation
+   utilize_oss
+   incorporate_oss
+   license_breach
 
 索引と検索
 ==========
