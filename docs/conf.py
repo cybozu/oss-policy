@@ -153,3 +153,7 @@ texinfo_documents = [
      author, 'OSSPolicy', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+# Cybozu customization
+def setup(app):
+    app.add_stylesheet('css/cybozu.css')
