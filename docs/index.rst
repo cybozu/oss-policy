@@ -11,7 +11,7 @@
 
    about
    preface
-   copyright_attribution
+   copyright
    indivisual_activities
    publish_oss
    utilize_oss
